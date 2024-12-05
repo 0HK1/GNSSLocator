@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GNSSLocator</string>
+    <string name="graus_minutos">Degrees-Minute</string>
+    <string name="graus_minutos_segundos">Degrees-Minute-Second</string>
+    <string name="graus">Degrees</string>
+    <string name="informacoes_string">Location Information</string>
+    <string name="ultimaPosicao_string">Last Position Data</string>
+    <string name="grausLatitude_string">Latitude(Degree)</string>
+    <string name="grausLatitudeMinuto_string">Latitude(Degree-Minute)</string>
+    <string name="grausLatitudeMinutoSegundo_string">Latitude(Degree-Minute-Second)</string>
+    <string name="grausLongitute_string">Longitude(Degree)</string>
+    <string name="grausLongituteMinutos_string">Longitude(Degree-Minute)</string>
+    <string name="grausLongituteMinutosSegundos_string">Longitude(Degree-Minute-Second)</string>
+    <string name="altitude_string">Elevation</string>
+    <string name="rumo_string">Direction(Degrees)</string>
+    <string name="sinal_string">Signal Quality</string>
+    <string name="inFix">inFix</string>
+</resources>

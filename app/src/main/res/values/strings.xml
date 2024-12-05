@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">GNSSLocator</string>
+    <string name="graus_minutos" translatable="false">Graus-Minutos</string>
+    <string name="graus_minutos_segundos" translatable="false">Graus-Minutos-Segundos</string>
+    <string name="graus" translatable="false">Graus</string>
+    <string name="informacoes_string" translatable="false">Informaçãoes de Localização</string>
+    <string name="ultimaPosicao_string">Dados da Última Posição</string>
+    <string name="grausLatitude_string">Latitude(graus)</string>
+    <string name="grausLatitudeMinuto_string">Latitude(graus-minuto)</string>
+    <string name="grausLatitudeMinutoSegundo_string">Latitude(graus-minuto-segundo)</string>
+    <string name="grausLongitute_string">Longitude(graus)</string>
+    <string name="grausLongituteMinutos_string">Longitude(graus-minutos)</string>
+    <string name="grausLongituteMinutosSegundos_string">Longitude(graus-minutos-segundos)</string>
+    <string name="altitude_string">Altitude</string>
+    <string name="rumo_string">Rumo(graus)</string>
+    <string name="sinal_string">Qualidade do Sinal</string>
+    <string name="GPS" translatable="false">GPS</string>
+    <string name="Galileo" translatable="false">Galileo</string>
+    <string name="Glonass" translatable="false">Glonass</string>
+    <string name="inFix">Em Uso</string>
+</resources>

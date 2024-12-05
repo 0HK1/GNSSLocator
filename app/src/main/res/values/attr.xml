@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MapaEstelar">
+
+        <attr name="XC" format="integer"/>
+        <attr name="YC" format="integer"/>
+        <attr name="Radius" format="integer"/>
+        <attr name="CircleColor" format="color"/>
+
+    </declare-styleable>
+</resources>
